@@ -12,9 +12,15 @@ main{
     width: 100vw;
 }
 
+main > p {
+    margin: 30px 60px;
+    font-size: 20px;
+}
+
 img {
     max-height: 400px;
     max-width: 400px;
+    margin: 30px 60px 0px 60px;
 }
 
 nav{
