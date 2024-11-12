@@ -7,6 +7,15 @@ header h1{
     padding-top: 0;
     color: green;
 }
+main{
+    height: 73vh;
+    width: 100vw;
+}
+
+img {
+    max-height: 400px;
+    max-width: 400px;
+}
 
 nav{
     background-color: green;
